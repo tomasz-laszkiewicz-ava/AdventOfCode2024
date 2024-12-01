@@ -1,0 +1,18 @@
+{
+  "name": "adventofcode2024",
+  "version": "1.0.0",
+  "description": "Advent Of Code 2024",
+  "main": "index.js",
+  "scripts": {
+    "day": "node main.js",
+    "test": "vitest"
+  },
+  "author": "tl",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.10.3",
+    "heap-js": "^2.3.0",
+    "ts-node": "^10.9.1",
+    "vitest": "^2.1.6"
+  }
+}
