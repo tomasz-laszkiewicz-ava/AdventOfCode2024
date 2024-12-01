@@ -3,6 +3,10 @@
 This repository contains TypeScript solutions for Advent of Code 2024. 
 Each day's solution is organized in its respective directory under the "days" folder, following the pattern "01" to "25".
 
+The main structure based on https://github.com/XavierDupuis/AdventOfCode2023
+I replaced Jest with Vitest.
+I put invoking solutionner to main file - therefore tests don't run main solution.
+
 ## Directory Structure
 
 ```
